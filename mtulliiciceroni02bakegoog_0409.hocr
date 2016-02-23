@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni02bakegoog_0409.png"; bbox 0 0 3131 5032; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 724 416 1970 503">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 724 416 1970 503">
+     <span class='ocr_line' id='line_1_1' title="bbox 724 416 1970 503; baseline -0.002 -15"><span class='ocrx_word' id='word_1_1' title='bbox 724 421 858 488; x_wconf 69' lang='lat'><strong>342</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1431 416 1574 485; x_wconf 71' lang='lat' dir='ltr'><strong>Lu.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1615 417 1688 503; x_wconf 87' lang='lat'><strong>1,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1735 423 1814 503; x_wconf 84' lang='lat'><strong>8,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1858 420 1970 487; x_wconf 67' lang='lat'><strong>2⁴.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 727 620 2684 807">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 727 620 2684 807">
+     <span class='ocr_line' id='line_1_2' title="bbox 727 620 2684 705; baseline 0.001 -18"><span class='ocrx_word' id='word_1_6' title='bbox 727 626 948 687; x_wconf 74' lang='lat' dir='ltr'><strong>Contra</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 980 623 1221 703; x_wconf 63' lang='lat' dir='ltr'><strong>Legum.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1261 620 1340 683; x_wconf 85' lang='lat'><strong>10</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1372 621 1996 703; x_wconf 48' lang='lat' dir='ltr'><strong>macbethad-uno,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2032 642 2158 703; x_wconf 76' lang='lat' dir='ltr'><strong>quo</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2191 621 2260 684; x_wconf 85' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2290 623 2504 705; x_wconf 72' lang='lat' dir='ltr'>primis</span> <span class='ocrx_word' id='word_1_13' title='bbox 2537 642 2684 689; x_wconf 73' lang='lat' dir='ltr'><strong>cun·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 727 723 2683 807; baseline 0 -18"><span class='ocrx_word' id='word_1_14' title='bbox 727 728 1002 789; x_wconf 79' lang='lat' dir='ltr'><strong>firmatur</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1033 723 1283 787; x_wconf 76' lang='lat' dir='ltr'>victorii</span> <span class='ocrx_word' id='word_1_16' title='bbox 1334 725 1682 786; x_wconf 77' lang='lat' dir='ltr'><strong>oonieetura</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1691 772 1710 802; x_wconf 90' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_18' title='bbox 1749 726 2027 787; x_wconf 70' lang='lat' dir='ltr'><strong>hominis.</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 2104 724 2352 807; x_wconf 65' lang='lat' dir='ltr'>Propter</span> <span class='ocrx_word' id='word_1_20' title='bbox 2398 728 2683 790; x_wconf 73' lang='lat' dir='ltr'><strong>vitiosum</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

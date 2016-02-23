@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni02bakegoog_0406.png"; bbox 0 0 3131 5032; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1212 469 2452 554">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1212 469 2452 554">
+     <span class='ocr_line' id='line_1_1' title="bbox 1212 469 2452 554; baseline 0.007 -18"><span class='ocrx_word' id='word_1_1' title='bbox 1212 469 1356 536; x_wconf 73' lang='lat' dir='ltr'><strong>Lm.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1404 469 1467 553; x_wconf 92' lang='lat'><strong>1,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1518 472 1594 554; x_wconf 89' lang='lat'><strong>7,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1643 473 1752 538; x_wconf 82' lang='lat'><strong>23.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2322 479 2452 545; x_wconf 79' lang='lat'><strong>339</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 494 674 2465 864">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 494 674 2465 864">
+     <span class='ocr_line' id='line_1_2' title="bbox 494 674 2465 765; baseline 0.001 -24"><span class='ocrx_word' id='word_1_6' title='bbox 494 684 652 765; x_wconf 63' lang='grc' dir='ltr'><strong>ῲιω</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 679 679 994 764; x_wconf 77' lang='lat' dir='ltr'><strong>(Catonem</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1026 683 1091 737; x_wconf 75' lang='lat' dir='ltr'><strong>ot</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1123 674 1381 757; x_wconf 73' lang='lat' dir='ltr'><strong>Lysiam)</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1408 675 1770 736; x_wconf 71' lang='lat' dir='ltr'><strong>similitudo.-</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1803 695 1987 756; x_wconf 77' lang='lat' dir='ltr'><strong>quom</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2023 677 2222 738; x_wconf 83' lang='lat' dir='ltr'>locum</span> <span class='ocrx_word' id='word_1_13' title='bbox 2250 679 2465 742; x_wconf 63' lang='lat' dir='ltr'><strong>minus</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 495 778 2456 864; baseline 0.001 -21"><span class='ocrx_word' id='word_1_14' title='bbox 495 793 663 848; x_wconf 76' lang='lat' dir='ltr'>recto</span> <span class='ocrx_word' id='word_1_15' title='bbox 708 781 1096 861; x_wconf 74' lang='lat' dir='ltr'><strong>interpretari</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1146 779 1301 841; x_wconf 77' lang='lat' dir='ltr'><strong>mihi</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1350 778 1596 840; x_wconf 78' lang='lat' dir='ltr'><strong>videtur</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1642 780 1970 860; x_wconf 73' lang='lat' dir='ltr'><strong>Madvigius</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 2016 780 2352 845; x_wconf 79' lang='lat' dir='ltr'><strong>Emendatt.</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 2388 785 2419 845; x_wconf 91' lang='lat'>1</span> <span class='ocrx_word' id='word_1_21' title='bbox 2435 830 2456 864; x_wconf 87' lang='lat'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

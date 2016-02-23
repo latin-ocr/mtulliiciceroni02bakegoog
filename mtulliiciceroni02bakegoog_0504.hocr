@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni02bakegoog_0504.png"; bbox 0 0 3131 5032; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1016 470 1414 561">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1016 470 1414 561">
+     <span class='ocr_line' id='line_1_1' title="bbox 1016 470 1414 561; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 1016 536 1043 561; x_wconf 89' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1156 470 1414 560; x_wconf 61' lang='lat' dir='ltr'>ml,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1458 479 1747 563">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1458 479 1747 563">
+     <span class='ocr_line' id='line_1_2' title="bbox 1458 479 1747 563; baseline 0.024 -18"><span class='ocrx_word' id='word_1_3' title='bbox 1458 479 1588 563; x_wconf 88' lang='lat'>21,</span> <span class='ocrx_word' id='word_1_4' title='bbox 1632 486 1747 552; x_wconf 71' lang='lat'>54.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2244 500 2425 598">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2244 500 2425 598">
+     <span class='ocr_line' id='line_1_3' title="bbox 2244 500 2425 598; baseline 0.022 -31"><span class='ocrx_word' id='word_1_5' title='bbox 2244 585 2255 598; x_wconf 27' lang='lat'>⁸</span> <span class='ocrx_word' id='word_1_6' title='bbox 2295 500 2425 571; x_wconf 72' lang='lat'>435</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

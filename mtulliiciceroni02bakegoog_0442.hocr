@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni02bakegoog_0442.png"; bbox 0 0 3131 5032; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1185 413 2442 502">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1185 413 2442 502">
+     <span class='ocr_line' id='line_1_1' title="bbox 1185 413 2442 502; baseline 0.007 -22"><span class='ocrx_word' id='word_1_1' title='bbox 1185 414 1327 481; x_wconf 73' lang='lat' dir='ltr'><strong>Lm.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1373 415 1441 502; x_wconf 90' lang='lat'><strong>1,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1496 418 1612 492; x_wconf 77' lang='lat'><strong>12.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1658 413 1767 485; x_wconf 65' lang='lat'><strong>3⁴.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2317 418 2442 490; x_wconf 77' lang='lat'><strong>375</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 474 620 2446 698">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 474 620 2446 698">
+     <span class='ocr_line' id='line_1_2' title="bbox 474 620 2446 698; baseline 0.001 -16"><span class='ocrx_word' id='word_1_6' title='bbox 474 620 705 682; x_wconf 75' lang='lat' dir='ltr'><strong>flandio</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 753 620 1006 698; x_wconf 78' lang='lat' dir='ltr'><strong>quidem</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1040 622 1538 698; x_wconf 76' lang='lat' dir='ltr'><strong>praetermissam:</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1591 621 1697 681; x_wconf 78' lang='lat' dir='ltr'><strong>sed</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1730 641 1810 682; x_wconf 79' lang='lat' dir='ltr'><strong>ne</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1847 623 1932 681; x_wconf 81' lang='lat' dir='ltr'><strong>sic</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1966 621 2213 698; x_wconf 82' lang='lat' dir='ltr'><strong>quidem</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2250 625 2446 683; x_wconf 75' lang='lat' dir='ltr'><strong>exitus</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

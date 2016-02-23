@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni02bakegoog_0512.png"; bbox 0 0 3131 5032; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1078 416 2342 501">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1078 416 2342 501">
+     <span class='ocr_line' id='line_1_1' title="bbox 1078 416 2342 501; baseline 0.005 -18"><span class='ocrx_word' id='word_1_1' title='bbox 1078 416 1334 501; x_wconf 77' lang='lat' dir='ltr'>Lm..1,</span> <span class='ocrx_word' id='word_1_2' title='bbox 1381 420 1499 501; x_wconf 84' lang='lat'><strong>22,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1543 419 1655 484; x_wconf 79' lang='lat'><strong>58.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2215 425 2342 489; x_wconf 62' lang='lat'><strong>443</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
